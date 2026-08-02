@@ -3,13 +3,13 @@ import { domains, formatPrice } from '../data/domains'
 export default function Home() {
   return (
     <main>
-      <h1>A handful of <code>.md</code> domains I&rsquo;m holding.</h1>
+      <h1>Some <code>.md</code> names I&rsquo;m holding.</h1>
 
       <p className="lede">
-        I picked up these names a while back because they&rsquo;re short, easy to
-        say out loud, and useful for the kind of product launches and tools I
-        tend to build. Some of them I&rsquo;ll keep, the others I&rsquo;m open
-        to parting with. Prices below, in USD, sorted most expensive first.
+        I bought these for myself, mostly. Short, pronounceable, useful for the
+        kind of products I tend to ship. A few I&rsquo;d rather see go to
+        someone who&rsquo;ll actually use them &mdash; the prices are below,
+        sorted most expensive first. All firm but negotiable.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
@@ -35,24 +35,24 @@ export default function Home() {
         </tbody>
       </table>
 
-      <h2>Why these ones</h2>
+      <h2>Why <code>.md</code>, why now</h2>
       <p>
-        Markdown is everywhere in the AI era &mdash; it&rsquo;s what models read
-        and write natively, what most docs, READMEs, and agent tools speak.
-        A short <code>.md</code> name is a natural home for that: a landing
-        page, a documentation root, a model-facing surface. These names read
-        well out loud, work as a project handle, and don&rsquo;t need
-        explaining.
+        Every model reads and writes markdown natively. Every README, every
+        docs site, every agent tool speaks it. A short <code>.md</code> name
+        is the natural home for that &mdash; a landing page, a docs root, a
+        URL a model can hand back to a user without anyone having to think
+        about it.
       </p>
       <p>
-        Mostly bought for personal use, a couple I&rsquo;d rather see go to
-        someone who&rsquo;ll actually use them. Prices below are firm but
-        negotiable &mdash; reach out and tell me what you have in mind.
+        It&rsquo;s a small bet, but it&rsquo;s the kind of bet I like.
+      </p>
+      <p>
+        Want one? Tell me which and what for. We&rsquo;ll figure out the rest.
       </p>
 
       <section className="contact" aria-label="Contact">
         <p>
-          Contact: <a href="https://x.com/th0rgal_">x.com/th0rgal_</a>
+          <a href="https://x.com/th0rgal_">@th0rgal_</a>
           {' · '}
           <a href="mailto:dns@thomas.md">dns@thomas.md</a>
         </p>

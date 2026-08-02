@@ -26,7 +26,11 @@ export default async function RootLayout({
         <Layout>
           <Navbar pageMap={await getPageMap()} />
           {children}
-          <Footer>{new Date().getFullYear()} · LFG Labs · Thomas Marchand</Footer>
+          <Footer>
+            {new Date().getFullYear()} ·{' '}
+            <a href="https://lfglabs.dev">LFG Labs</a> ·{' '}
+            <a href="https://thomas.md">Thomas Marchand</a>
+          </Footer>
         </Layout>
       </body>
     </html>
