@@ -7,10 +7,8 @@ export default function Home() {
 
       <p className="lede">
         LFG Labs picked these up as a long-term position. Short, pronounceable,
-        useful for the kind of products that ship in this space. A few
-        we&rsquo;d rather see go to someone who&rsquo;ll actually use them
-        &mdash; the prices are below, sorted most expensive first. All firm
-        but negotiable.
+        useful for the kind of products that ship in this space. Prices below,
+        sorted most expensive first. All firm but negotiable.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
