@@ -3,12 +3,13 @@ import { domains, formatPrice } from '../data/domains'
 export default function Home() {
   return (
     <main>
-      <h1>A small portfolio of <code>.md</code> domains.</h1>
+      <h1>A handful of <code>.md</code> domains I&rsquo;m holding.</h1>
 
       <p className="lede">
-        Twelve short, memorable <code>.md</code> names held by LFG Labs as long-term
-        brand assets. Acquired as a focused investment, not for speculation.
-        Each is priced in USD and listed below in descending order.
+        I picked up these names a while back because they&rsquo;re short, easy to
+        say out loud, and useful for the kind of product launches and tools I
+        tend to build. Some of them I&rsquo;ll keep, the others I&rsquo;m open
+        to parting with. Prices below, in USD, sorted most expensive first.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
@@ -34,23 +35,14 @@ export default function Home() {
         </tbody>
       </table>
 
-      <h2>How to buy one</h2>
+      <h2>Why these ones</h2>
       <p>
-        A name transfers cleanly to a buyer of choice (Cloudflare Registrar,
-        another registrar, or a deal broker). Payment in USDT or wire; no escrow
-        drama, no rush.
+        Short names that read well out loud, work as a project handle, and
+        don&rsquo;t need explaining. Mostly bought for personal use, a couple
+        I&rsquo;d rather see go to someone who&rsquo;ll actually use them.
       </p>
       <p>
-        Reach out and tell me which name you want and how you'd like to use it.
-        I'll reply with transfer options and timeline.
-      </p>
-
-      <h2>About this collection</h2>
-      <p>
-        All names were registered as a deliberate long-term position: short,
-        pronounceable, and useful for product launches, command-line tools,
-        personal sites, or brandable shortcuts. They are listed here so that
-        anyone interested can see what is held and at what price.
+        Want one? Drop me a line and tell me what you have in mind.
       </p>
 
       <section className="contact" aria-label="Contact">
