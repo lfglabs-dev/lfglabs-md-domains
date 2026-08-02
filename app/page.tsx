@@ -3,13 +3,14 @@ import { domains, formatPrice } from '../data/domains'
 export default function Home() {
   return (
     <main>
-      <h1>Some <code>.md</code> names I&rsquo;m holding.</h1>
+      <h1>Some <code>.md</code> names we&rsquo;re holding.</h1>
 
       <p className="lede">
-        I bought these for myself, mostly. Short, pronounceable, useful for the
-        kind of products I tend to ship. A few I&rsquo;d rather see go to
-        someone who&rsquo;ll actually use them &mdash; the prices are below,
-        sorted most expensive first. All firm but negotiable.
+        LFG Labs picked these up as a long-term position. Short, pronounceable,
+        useful for the kind of products that ship in this space. A few
+        we&rsquo;d rather see go to someone who&rsquo;ll actually use them
+        &mdash; the prices are below, sorted most expensive first. All firm
+        but negotiable.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
@@ -44,10 +45,12 @@ export default function Home() {
         about it.
       </p>
       <p>
-        It&rsquo;s a small bet, but it&rsquo;s the kind of bet I like.
+        We expect these names to keep appreciating as the AI era matures.
+        It&rsquo;s a small, focused bet.
       </p>
       <p>
-        Want one? Tell me which and what for. We&rsquo;ll figure out the rest.
+        Want one? Tell us which and what for. We&rsquo;ll figure out the
+        rest.
       </p>
 
       <section className="contact" aria-label="Contact">
