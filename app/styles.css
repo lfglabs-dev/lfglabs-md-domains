@@ -1,0 +1,2 @@
+/* Re-export the main stylesheet. Nextra + Next both expect a CSS entry under app/. */
+@import url('../styles/main.css');
