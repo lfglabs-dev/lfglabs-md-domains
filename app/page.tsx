@@ -39,9 +39,8 @@ export default function Home() {
       <h2>Why <code>.md</code>, why now</h2>
       <p>
         Models read and write markdown natively. A short <code>.md</code> name
-        is a natural home for that: a landing page, a docs root, a URL an
-        agent can hand back to a user without anyone having to think about
-        it. We expect these names to keep appreciating as the AI era matures.
+        probably makes sense for something targeting LLMs. We expect these
+        names to keep appreciating as the AI era matures.
       </p>
       <p>
         Want one? Tell us which and what for. We&rsquo;ll figure out the
