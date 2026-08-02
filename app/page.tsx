@@ -6,9 +6,11 @@ export default function Home() {
       <h1>Some <code>.md</code> names we&rsquo;re holding.</h1>
 
       <p className="lede">
-        LFG Labs picked these up as a long-term position. Short, pronounceable,
-        useful for the kind of products that ship in this space. Prices below,
-        sorted most expensive first. All firm but negotiable.
+        LFG Labs picked these up as a long-term position. When Claude Opus 4.5
+        came out we figured out humans wouldn&rsquo;t be the only ones on the
+        web anymore &mdash; and <code>.md</code> domains are a natural fit for
+        products built for LLMs. Prices below, sorted most expensive first.
+        All firm but negotiable.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
