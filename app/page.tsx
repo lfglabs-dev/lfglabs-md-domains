@@ -37,12 +37,17 @@ export default function Home() {
 
       <h2>Why these ones</h2>
       <p>
-        Short names that read well out loud, work as a project handle, and
-        don&rsquo;t need explaining. Mostly bought for personal use, a couple
-        I&rsquo;d rather see go to someone who&rsquo;ll actually use them.
+        Markdown is everywhere in the AI era &mdash; it&rsquo;s what models read
+        and write natively, what most docs, READMEs, and agent tools speak.
+        A short <code>.md</code> name is a natural home for that: a landing
+        page, a documentation root, a model-facing surface. These names read
+        well out loud, work as a project handle, and don&rsquo;t need
+        explaining.
       </p>
       <p>
-        Want one? Drop me a line and tell me what you have in mind.
+        Mostly bought for personal use, a couple I&rsquo;d rather see go to
+        someone who&rsquo;ll actually use them. Prices below are firm but
+        negotiable &mdash; reach out and tell me what you have in mind.
       </p>
 
       <section className="contact" aria-label="Contact">
