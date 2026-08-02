@@ -8,9 +8,9 @@ export default function Home() {
       <p className="lede">
         LFG Labs picked these up as a long-term position. When Claude Opus 4.5
         came out we figured out humans wouldn&rsquo;t be the only ones on the
-        web anymore &mdash; and <code>.md</code> domains are a natural fit for
+        web anymore, and <code>.md</code> domains are a natural fit for
         products built for LLMs. Prices below, sorted most expensive first.
-        All firm but negotiable.
+        Prices are negotiable if you take several.
       </p>
 
       <table className="domains" aria-label="Available .md domains">
@@ -38,15 +38,10 @@ export default function Home() {
 
       <h2>Why <code>.md</code>, why now</h2>
       <p>
-        Every model reads and writes markdown natively. Every README, every
-        docs site, every agent tool speaks it. A short <code>.md</code> name
-        is the natural home for that &mdash; a landing page, a docs root, a
-        URL a model can hand back to a user without anyone having to think
-        about it.
-      </p>
-      <p>
-        We expect these names to keep appreciating as the AI era matures.
-        It&rsquo;s a small, focused bet.
+        Models read and write markdown natively. A short <code>.md</code> name
+        is a natural home for that: a landing page, a docs root, a URL an
+        agent can hand back to a user without anyone having to think about
+        it. We expect these names to keep appreciating as the AI era matures.
       </p>
       <p>
         Want one? Tell us which and what for. We&rsquo;ll figure out the
