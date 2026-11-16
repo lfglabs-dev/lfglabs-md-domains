@@ -3,7 +3,21 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url(https://rsms.me/inter/font-files/Inter-roman.var.woff2) format('woff2');
+  src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'ET Book';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/etbookot-roman-webfont.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'ET Book';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/etbookot-italic-webfont.woff2) format('woff2');
 }
 
 :root {
