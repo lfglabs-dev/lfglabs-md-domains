@@ -8,7 +8,7 @@
 
 :root {
   --font-serif-display: 'ET Book', Georgia, 'Times New Roman', serif;
-  --font-serif-text: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-serif-text: var(--font-source-serif), 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --font-sans: 'Inter var', system-ui, -apple-system, sans-serif;
   --bg: #fbfaf6;
   --fg: #2e2b26;
