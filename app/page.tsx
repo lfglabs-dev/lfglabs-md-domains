@@ -49,7 +49,7 @@ export default function Home() {
 
       <section className="contact" aria-label="Contact">
         <p>
-          <a href="https://x.com/th0rgal_">@th0rgal_</a>
+          <a href="https://x.com/thomasmc">@thomasmc</a>
           {' · '}
           <a href="mailto:dns@thomas.md">dns@thomas.md</a>
         </p>
